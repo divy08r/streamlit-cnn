@@ -1,5 +1,5 @@
 import streamlit as st
-from tensorflow.keras.preprocessing.image import load_img,img_to_array
+
 from tensorflow.keras.models import load_model
 import numpy as np
 import keras
